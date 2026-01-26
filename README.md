@@ -8,7 +8,7 @@ Features
 ✅ Secure password hashing
 ✅ Login with verification check
 ✅ Material-UI components
-✅ Responsive design
+✅ Responsive design 
 ✅ Error handling
 Project Structure
 LIGBIND_PROJECT/
