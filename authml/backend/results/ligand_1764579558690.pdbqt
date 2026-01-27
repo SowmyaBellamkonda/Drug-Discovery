@@ -1,0 +1,26 @@
+REMARK  Name = C:\D DRIVE\RMPRF\authml\backend\results\ligand_1764579558690.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  N_2
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  O_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       0.000   0.000   0.000  0.00  0.00    +0.000 C 
+ATOM      2  N   UNL     1      -0.000   0.000   0.000  0.00  0.00    +0.000 N 
+ATOM      3  C   UNL     1       0.000   0.000   0.000  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1       0.000   0.000   0.000  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       0.000  -0.000   0.000  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1       0.183  -1.300   0.088  0.00  0.00    +0.000 C 
+ATOM      7  O   UNL     1       1.513  -0.002  -0.032  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4   8
+ATOM      8  C   UNL     1    -nan(ind)-nan(ind)-nan(ind)  0.00  0.00    +0.000 C 
+ATOM      9  O   UNL     1    -nan(ind)-nan(ind)-nan(ind)  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  O   UNL     1    -nan(ind)-nan(ind)-nan(ind)  0.00  0.00    +0.000 OA
+ATOM     11  H   UNL     1    -nan(ind)-nan(ind)-nan(ind)  0.00  0.00    +0.000 HD
+ENDBRANCH   8  10
+ENDBRANCH   4   8
+TORSDOF 2

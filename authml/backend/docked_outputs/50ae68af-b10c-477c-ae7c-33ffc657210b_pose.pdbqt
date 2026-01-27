@@ -1,0 +1,306 @@
+MODEL 1
+REMARK VINA RESULT:    -3.167      0.000      0.000
+REMARK INTER + INTRA:          -3.864
+REMARK INTER:                  -3.723
+REMARK INTRA:                  -0.142
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       4.799   2.163   4.292  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       6.533   3.963   4.405  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       5.194   3.506   3.840  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       5.811   1.490   5.126  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       6.555   0.319   4.489  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       3.475   2.150   4.939  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       3.385   3.091   6.137  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -3.128      1.509      3.472
+REMARK INTER + INTRA:          -3.819
+REMARK INTER:                  -3.631
+REMARK INTRA:                  -0.188
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       5.551   3.386   4.387  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       3.359   2.355   5.015  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       4.754   2.150   4.436  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       4.964   4.508   5.140  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       5.601   4.837   6.488  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       6.959   3.165   4.763  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       7.295   1.694   4.988  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -3.123      1.459      2.534
+REMARK INTER + INTRA:          -3.812
+REMARK INTER:                  -3.633
+REMARK INTRA:                  -0.179
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       5.587   3.289   4.357  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       7.351   1.576   4.823  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       6.976   3.052   4.782  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       4.724   2.098   4.443  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       3.326   2.305   5.021  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       4.978   4.445   5.039  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       5.650   4.781   6.366  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -3.111      1.387      2.850
+REMARK INTER + INTRA:          -3.799
+REMARK INTER:                  -3.652
+REMARK INTRA:                  -0.147
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       5.682   2.745   5.277  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       6.842   0.709   4.399  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       6.977   2.095   5.017  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       5.721   4.215   5.184  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       5.479   4.990   6.477  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       4.594   2.183   4.457  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       3.218   2.346   5.096  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -3.095      1.262      2.952
+REMARK INTER + INTRA:          -3.780
+REMARK INTER:                  -3.663
+REMARK INTRA:                  -0.117
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       5.817   2.517   5.126  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       5.588   4.732   6.266  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       5.952   3.976   4.995  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       4.665   1.954   4.400  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       3.281   2.267   4.964  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       7.062   1.801   4.794  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       6.851   0.310   4.555  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -3.082      1.695      2.475
+REMARK INTER + INTRA:          -3.764
+REMARK INTER:                  -3.564
+REMARK INTRA:                  -0.200
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       6.835   2.510   4.708  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       6.208   2.934   7.093  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       7.305   2.564   6.101  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       6.070   1.294   4.381  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       6.684  -0.038   4.806  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       6.106   3.727   4.309  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       4.819   3.432   3.545  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -3.069      1.718      2.922
+REMARK INTER + INTRA:          -3.749
+REMARK INTER:                  -3.550
+REMARK INTRA:                  -0.199
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       6.921   2.476   4.756  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       4.910   3.423   3.606  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       6.200   3.699   4.370  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.289   2.422   6.181  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       6.271   2.980   7.173  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       6.220   1.250   4.335  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       6.812  -0.017   4.943  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -3.024      1.759      3.264
+REMARK INTER + INTRA:          -3.696
+REMARK INTER:                  -3.503
+REMARK INTRA:                  -0.193
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       6.959   2.367   4.751  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       6.699  -0.108   5.005  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       6.244   1.163   4.300  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       6.238   3.626   4.491  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       4.985   3.531   3.623  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       7.388   2.275   6.159  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       6.453   3.001   7.119  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -3.020      1.368      2.351
+REMARK INTER + INTRA:          -3.691
+REMARK INTER:                  -3.541
+REMARK INTRA:                  -0.150
+REMARK UNBOUND:                -0.142
+REMARK  Name = C:\Users\Bellamkonda Sowmya\OneDrive\Documents\backend[1]\backend\results\ligand_1764365287563.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  N_3
+REMARK    3  A    between atoms: N_3  and  C_4
+REMARK    4  A    between atoms: N_3  and  C_6
+REMARK    5  A    between atoms: C_4  and  C_5
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1       5.665   2.720   5.399  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C   UNL     1       3.224   2.292   5.051  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       4.626   2.284   4.453  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C   UNL     1       6.891   1.904   5.360  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       6.876   0.689   4.436  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C   UNL     1       5.971   4.157   5.278  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       5.479   4.976   6.467  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL

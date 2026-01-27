@@ -1,0 +1,13 @@
+Flask
+flask-cors
+pymongo
+redis
+python-dotenv
+PyJWT
+werkzeug
+rdkit
+joblib
+scikit-learn
+numpy
+seaborn 
+matplotlib

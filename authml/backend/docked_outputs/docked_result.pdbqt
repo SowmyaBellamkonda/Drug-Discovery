@@ -1,0 +1,306 @@
+MODEL 1
+REMARK VINA RESULT:    -3.162      0.000      0.000
+REMARK INTER + INTRA:          -3.871
+REMARK INTER:                  -3.716
+REMARK INTRA:                  -0.155
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       5.768   3.336   4.387  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       5.589   4.870   6.412  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       5.083   4.472   5.027  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       7.020   2.986   5.073  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       7.384   1.528   4.815  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       4.861   2.193   4.199  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       3.527   2.344   4.921  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -3.103      0.629      2.776
+REMARK INTER + INTRA:          -3.802
+REMARK INTER:                  -3.664
+REMARK INTRA:                  -0.138
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       5.782   2.744   5.142  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       7.276   0.798   4.462  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       7.141   2.276   4.820  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       5.636   4.194   4.954  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       5.504   4.900   6.299  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       4.757   1.955   4.441  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       3.343   2.189   4.959  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -3.093      0.752      2.607
+REMARK INTER + INTRA:          -3.790
+REMARK INTER:                  -3.670
+REMARK INTRA:                  -0.120
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       5.825   2.524   5.211  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       5.542   4.805   6.308  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       5.902   3.988   5.068  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       4.783   1.938   4.356  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       3.398   2.214   4.932  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       7.143   1.894   5.046  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       7.077   0.456   4.544  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -3.052      1.640      2.160
+REMARK INTER + INTRA:          -3.742
+REMARK INTER:                  -3.545
+REMARK INTRA:                  -0.197
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       6.927   2.456   4.719  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       6.372   3.071   7.127  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       7.362   2.480   6.126  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       6.202   1.223   4.384  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       6.941   0.002   4.919  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       6.201   3.683   4.355  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       4.910   3.426   3.588  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -3.033      1.707      2.492
+REMARK INTER + INTRA:          -3.720
+REMARK INTER:                  -3.526
+REMARK INTRA:                  -0.194
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       6.778   2.508   4.862  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       4.929   3.564   3.466  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       6.109   3.743   4.418  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       7.166   2.566   6.279  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       5.943   2.782   7.162  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       5.995   1.313   4.516  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       6.737   0.003   4.755  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -2.977      1.507      2.528
+REMARK INTER + INTRA:          -3.654
+REMARK INTER:                  -3.448
+REMARK INTRA:                  -0.206
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       5.674   1.654   5.233  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       5.241   3.747   3.849  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       4.932   2.277   4.123  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       6.375   0.432   4.814  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       7.810   0.748   4.409  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       6.541   2.624   5.917  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       6.230   2.785   7.401  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -2.938     23.972     25.133
+REMARK INTER + INTRA:          -3.608
+REMARK INTER:                  -3.423
+REMARK INTRA:                  -0.185
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      -8.478   3.386 -15.753  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1      -6.920   1.390 -15.482  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -8.280   1.935 -15.911  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1      -9.843   3.802 -16.104  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1     -10.671   2.603 -16.552  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1      -8.044   3.851 -14.426  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1      -9.166   4.463 -13.595  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -2.832     24.107     25.108
+REMARK INTER + INTRA:          -3.484
+REMARK INTER:                  -3.316
+REMARK INTRA:                  -0.167
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      -8.615   3.515 -15.871  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1      -9.023   4.476 -13.548  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -9.309   4.520 -15.048  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1      -7.933   2.503 -15.052  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1      -6.663   2.019 -15.744  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1      -9.506   2.942 -16.892  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -10.987   3.069 -16.554  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -2.807      1.664      3.036
+REMARK INTER + INTRA:          -3.454
+REMARK INTER:                  -3.309
+REMARK INTRA:                  -0.146
+REMARK UNBOUND:                -0.155
+REMARK  Name = ligands/ligand.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  N1_3
+REMARK    3  A    between atoms: N1_3  and  C3_4
+REMARK    4  A    between atoms: N1_3  and  C5_6
+REMARK    5  A    between atoms: C3_4  and  C4_5
+REMARK    6  A    between atoms: C5_6  and  C6_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1       5.795   2.181   5.604  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      2  C1  UNL     1       6.751   0.016   4.666  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1       6.847   1.534   4.802  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   4
+ATOM      4  C3  UNL     1       6.345   2.908   6.757  0.00  0.00    +0.000 C 
+ATOM      5  C4  UNL     1       6.634   1.951   7.907  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   6
+ATOM      6  C5  UNL     1       4.900   2.996   4.768  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1       5.184   4.491   4.842  0.00  0.00    +0.000 C 
+ENDBRANCH   1   6
+TORSDOF 3
+ENDMDL
