@@ -15,7 +15,7 @@ from joblib import load
 import uuid
 import subprocess
 from dock_tasks import run_docking_task
-from pymongo import MongoClient
+# from pymongo import MongoClient
 
 # NEW IMPORTS FOR CACHING
 from cache_utils import cache_get, cache_set
@@ -25,11 +25,11 @@ load_dotenv()
 
 app = Flask(__name__)
 
-MONGO_URI = os.getenv("MONGO_URI")
-SECRET_KEY = os.getenv("SECRET_KEY")
+# MONGO_URI = os.getenv("MONGO_URI")
+# SECRET_KEY = os.getenv("SECRET_KEY")
 
-app.config["SECRET_KEY"] = SECRET_KEY
-client = MongoClient(MONGO_URI)
+# app.config["SECRET_KEY"] = SECRET_KEY
+# client = MongoClient(MONGO_URI)
 CORS(app)
 
 # ===============================
