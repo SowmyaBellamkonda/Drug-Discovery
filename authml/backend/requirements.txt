@@ -11,3 +11,4 @@ scikit-learn
 numpy
 seaborn 
 matplotlib
+gunicorn

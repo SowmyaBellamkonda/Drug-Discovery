@@ -15,6 +15,7 @@ from joblib import load
 import uuid
 import subprocess
 from dock_tasks import run_docking_task
+from pymongo import MongoClient
 
 # NEW IMPORTS FOR CACHING
 from cache_utils import cache_get, cache_set
@@ -23,6 +24,12 @@ from chem_db import get_chem_result, save_chem_result
 load_dotenv()
 
 app = Flask(__name__)
+
+MONGO_URI = os.getenv("MONGO_URI")
+SECRET_KEY = os.getenv("SECRET_KEY")
+
+app.config["SECRET_KEY"] = SECRET_KEY
+client = MongoClient(MONGO_URI)
 CORS(app)
 
 # ===============================
@@ -389,4 +396,4 @@ def download_protein():
 # Run Server
 # ===============================
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000)
