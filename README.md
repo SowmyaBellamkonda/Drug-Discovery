@@ -8,12 +8,6 @@ The codebase follows standard Git practices and is structured for clarity and sc
 authml/
 ├── backend/ # Backend logic and server-side code
 ├── frontend/ # Frontend / UI components
-## 📘 Documentation
-
-Detailed project documentation, setup instructions, and implementation details are available here:
-
-👉 [View full documentation](docs/README.md)
-
 ## 🛠 Tech Stack
 
 - Python  
